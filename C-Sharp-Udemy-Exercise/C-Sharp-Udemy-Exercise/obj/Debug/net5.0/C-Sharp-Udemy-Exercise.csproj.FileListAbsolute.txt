@@ -1,0 +1,16 @@
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\bin\Debug\net5.0\C-Sharp-Udemy-Exercise.exe
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\bin\Debug\net5.0\C-Sharp-Udemy-Exercise.deps.json
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\bin\Debug\net5.0\C-Sharp-Udemy-Exercise.runtimeconfig.json
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\bin\Debug\net5.0\C-Sharp-Udemy-Exercise.runtimeconfig.dev.json
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\bin\Debug\net5.0\C-Sharp-Udemy-Exercise.dll
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\bin\Debug\net5.0\ref\C-Sharp-Udemy-Exercise.dll
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\bin\Debug\net5.0\C-Sharp-Udemy-Exercise.pdb
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.csproj.AssemblyReference.cache
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.AssemblyInfoInputs.cache
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.AssemblyInfo.cs
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.dll
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\ref\C-Sharp-Udemy-Exercise.dll
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.pdb
+C:\Users\natna\Downloads\Udemy\C#\C-Sharp-Udemy-Exercises\C-Sharp-Udemy-Exercise\C-Sharp-Udemy-Exercise\obj\Debug\net5.0\C-Sharp-Udemy-Exercise.genruntimeconfig.cache
